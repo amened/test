@@ -1,3 +1,5 @@
+/源码/12_Clock/*.cpp
+
 # Prerequisites
 *.d
 
@@ -31,4 +33,3 @@
 *.out
 *.app
 *.py
-./源码/12_Clock/*.cpp
